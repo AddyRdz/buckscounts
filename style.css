@@ -13,3 +13,33 @@
 }
 
 /* your code */
+.city-item{
+  border: solid black;
+  display: flex;
+  margin: 10px;
+  background-color: #00754a;
+}
+
+header{
+  border: solid black;
+  display: flex;
+  color: black;
+  background-color: #d4e9e2;
+  margin: 10px;
+}
+
+.city-list{
+  border: solid #d4e9e2;
+  padding: 10px;
+  margin: 10px;
+  background-color: #1e3932;
+}
+body{
+  background-color: #1e3932;
+}
+
+h1{
+  color: white;
+  display: flex;
+ 
+}
